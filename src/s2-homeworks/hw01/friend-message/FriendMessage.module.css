@@ -1,5 +1,5 @@
 .friendMessage {
-
+    margin-left: auto;
 }
 
 .friendImageAndText {
@@ -7,11 +7,17 @@
 }
 
 .friendImageAndText img {
-
+    width:48px;
+    height:48px;
 }
 
 .friendText {
-
+    padding: 8px 13px 25px;
+    background-color: #F5F7FB;
+    display: inline-block;
+    border-radius: 20px;
+    box-shadow: 0px 5px 20px rgba(29, 33, 38, 0.03), 0px 1px 2px rgba(29, 33, 38, 0.1);
+    box-sizing: border-box;
 }
 
 .friendText:after {
@@ -19,11 +25,21 @@
 }
 
 .friendName {
-
+    font-family: 'Montserrat', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
 }
 
 .friendMessageText {
-
+    font-family: 'Montserrat', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
 }
 
 .friendTime {
