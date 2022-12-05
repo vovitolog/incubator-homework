@@ -7,8 +7,11 @@ import SuperButton from './common/c2-SuperButton/SuperButton'
 const Stand = () => {
     const [stateForAllInputs, setValue] = useState<string>('')
     const [error, setError] = useState<string>('')
+    console.log(stateForAllInputs)
+    console.log(error)
 
     const [stateForAllCheckboxes, setChecked] = useState<boolean>(false)
+    console.log(stateForAllCheckboxes)
 
     return (
         <div id={'hw4-stand'} className={s.stand}>
