@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/incubator-homework/static/css/main.f351794e.css",
-    "main.js": "/incubator-homework/static/js/main.6e17d1c9.js",
+    "main.css": "/incubator-homework/static/css/main.4fb4cef6.css",
+    "main.js": "/incubator-homework/static/js/main.693f5eb2.js",
     "static/js/787.66cb4309.chunk.js": "/incubator-homework/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/incubator-homework/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/checked.svg": "/incubator-homework/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/incubator-homework/index.html",
-    "main.f351794e.css.map": "/incubator-homework/static/css/main.f351794e.css.map",
-    "main.6e17d1c9.js.map": "/incubator-homework/static/js/main.6e17d1c9.js.map",
+    "main.4fb4cef6.css.map": "/incubator-homework/static/css/main.4fb4cef6.css.map",
+    "main.693f5eb2.js.map": "/incubator-homework/static/js/main.693f5eb2.js.map",
     "787.66cb4309.chunk.js.map": "/incubator-homework/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f351794e.css",
-    "static/js/main.6e17d1c9.js"
+    "static/css/main.4fb4cef6.css",
+    "static/js/main.693f5eb2.js"
   ]
 }
