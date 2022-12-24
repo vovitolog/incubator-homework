@@ -1,5 +1,6 @@
 .radio {
-}
+    display: flex;
+ }
 
 .radio::before {
 }
@@ -9,7 +10,12 @@
 }
 
 .label {
+    display: flex;
+    gap: 13px;
 }
 
 .options {
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
 }

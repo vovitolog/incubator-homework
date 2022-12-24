@@ -1,9 +1,13 @@
 .select {
+    width: 180px;
 }
 
 .select:focus {
+    outline: none;
 }
 
 
 .option:hover {
+    cursor: pointer;
+    border: 2px solid green;
 }
