@@ -13,7 +13,6 @@ export function restoreState<T>(key: string, defaultState: T) {
         state = JSON.parse(stateAsString) as T
     }
     {
-        console.log(state)
         return state
     }
 
