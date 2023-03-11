@@ -28,7 +28,6 @@ const HW10 = () => {
             dispatch(loadingAC(false))
         }, 1500)
     }
-    // console.log(s2.hw)
 
     return (
         <div id={'hw10'}>
